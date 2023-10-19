@@ -190,7 +190,6 @@ function recuperarCarrito() {
     ? JSON.parse(localStorage.getItem("carrito"))
     : [];
 }
-// PROFE estuve horas y horas tratando de corregir el error de las ultimas lineas y no puedo darme cuenta, te agradeceria si me das una mano
 fetch("./data.json")
   .then((respuesta) => respuesta.json())
   .then((productos) => principal(productos))
