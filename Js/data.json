@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nombre": "Fernet",
+      "categoria": "Con alcohol",
+      "stock": 2,
+      "precio": 5000,
+      "rutaImagen": "Ferasd.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Coca cola",
+      "categoria": "Sin alcohol",
+      "stock": 7,
+      "precio": 850,
+      "rutaImagen": ""
+    },
+    {
+      "id": 3,
+      "nombre": "Gancia",
+      "categoria": "Con alcohol",
+      "stock": 4,
+      "precio": 2750,
+      "rutaImagen": ""
+    },
+    {
+      "id": 4,
+      "nombre": "sprite",
+      "categoria": "Sin alcohol",
+      "stock": 1,
+      "precio": 850,
+      "rutaImagen": ""
+    },
+    {
+      "id": 5,
+      "nombre": "Campari",
+      "categoria": "Con alcohol",
+      "stock": 3,
+      "precio": 300,
+      "rutaImagen": ""
+    },
+    {
+      "id": 6,
+      "nombre": "Cepita",
+      "categoria": "Sin alcohol",
+      "stock": 8,
+      "precio": 500,
+      "rutaImagen": ""
+    }
+  ]
